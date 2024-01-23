@@ -1,5 +1,5 @@
 .banner {
-  background: var(--azul-degrade);
+  background: #800080;
   color: var(--branco);
   text-align: center;
   padding: 1em;
@@ -34,14 +34,14 @@
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  color: var(--laranja)
+  color: #b34db2;
 }
 
 .principal__subtitulo {
   font-weight: 700;
   font-size: 17px;
   line-height: 26px;
-  color: var(--azul);
+  color: #800080;
   margin: 3em 0 2em 0;
 }
 
